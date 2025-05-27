@@ -487,7 +487,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hde023606gb037g3197g2d4cg0e6b719c1447" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hde023606gb037g3197g2d4cg0e6b719c1447" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Ice"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -497,7 +497,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3b5f17fage61ag026ag2d4bg0ffbdf2c0d13" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3b5f17fage61ag026ag2d4bg0ffbdf2c0d13" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Obsidian"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -507,7 +507,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7d8b53fcg5c26g23a4g9e0cge8b70b1ca42a" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7d8b53fcg5c26g23a4g9e0cge8b70b1ca42a" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Sapphire"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -517,7 +517,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="he5ceaa11gab6fg5dd4gd960g5f6ae0222fda" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he5ceaa11gab6fg5dd4gd960g5f6ae0222fda" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Emerald"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -527,7 +527,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8f3774c6g3be0g129bg0cc9g9ff896778f4b" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8f3774c6g3be0g129bg0cc9g9ff896778f4b" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_HTopaz"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -537,7 +537,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf45790a3g936ag57d9gc05cgba102798b12e" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf45790a3g936ag57d9gc05cgba102798b12e" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Ruby"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -547,7 +547,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h591672bagb52cgbcd4geeffg53ce802435af" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h591672bagb52cgbcd4geeffg53ce802435af" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_Amethyst"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
@@ -557,7 +557,7 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb0ed0880g1103g0284g57cdg6e401c9fe74a" version="2"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0ed0880g1103g0284g57cdg6e401c9fe74a" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_FB_Decor_D_BYTopaz"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
                     <attribute id="SlotName" type="FixedString" value="Beard"/>
