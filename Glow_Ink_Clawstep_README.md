@@ -1,4 +1,4 @@
-Emissive Ink - Glow Tattoo - Clawstep - Dragonborn CC
+Glow Ink - Body Tattoo - Clawstep - Dragonborn CC
 
 ModIO
 Nexus
