@@ -103,6 +103,14 @@
                             <attribute id="UUID" type="guid" value="cb555efe-2d9e-131f-8195-a89329d218ea"/>
                             <attribute id="Version64" type="int64" value="145241302737902957"/>
                         </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" type="LSString" value="DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a"/>
+                            <attribute id="MD5" type="LSString" value="cb9711a05414626907395e8422e1752b"/>
+                            <attribute id="Name" type="LSString" value="Clawstep - Dragonborn female body"/>
+                            <attribute id="PublishHandle" type="uint64" value="4824591"/>
+                            <attribute id="UUID" type="guid" value="533a435e-8c13-bc21-7cfc-48c3a322e29a"/>
+                            <attribute id="Version64" type="int64" value="36028797018963996"/>
+                        </node>
                     </children>
                 </node>
                 <node id="ModuleInfo">
