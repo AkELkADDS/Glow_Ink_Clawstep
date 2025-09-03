@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf 
-   Tue 06/24/2025 12:26:11.94 
+   Wed 09/03/2025 10:31:54.90 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -789,7 +789,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, June 24, 2025 12:26:15 PM
+  Started : Wednesday, September 3, 2025 10:31:58 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Projects\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
 
@@ -813,7 +813,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           225396000 Bytes/sec.
    Speed :           12897.262 MegaBytes/min.
-   Ended : Tuesday, June 24, 2025 12:26:15 PM
+   Ended : Wednesday, September 3, 2025 10:31:58 AM
 
  
 [DEBUG] Counting source files 
@@ -839,7 +839,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, June 24, 2025 12:26:17 PM
+  Started : Wednesday, September 3, 2025 10:32:00 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Editor\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
 
@@ -863,7 +863,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2510801000 Bytes/sec.
    Speed :           143669.185 MegaBytes/min.
-   Ended : Tuesday, June 24, 2025 12:26:17 PM
+   Ended : Wednesday, September 3, 2025 10:32:00 AM
 
  
 [DEBUG] Counting source files 
@@ -889,7 +889,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, June 24, 2025 12:26:19 PM
+  Started : Wednesday, September 3, 2025 10:32:01 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
 
@@ -899,7 +899,7 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		   12639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\meta.lsx100%  
+	    New File  		   12632	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\meta.lsx100%  
 	    New File  		  224699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\GUI\metadata.lsf100%  
 	    New File  		   40513	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Localization\English\english.xml100%  
@@ -913,9 +913,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           139496000 Bytes/sec.
-   Speed :            7982.025 MegaBytes/min.
-   Ended : Tuesday, June 24, 2025 12:26:19 PM
+   Speed :           139492500 Bytes/sec.
+   Speed :            7981.824 MegaBytes/min.
+   Ended : Wednesday, September 3, 2025 10:32:01 AM
 
  
 [DEBUG] Counting source files 
@@ -941,7 +941,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, June 24, 2025 12:26:21 PM
+  Started : Wednesday, September 3, 2025 10:32:03 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
 
@@ -1235,61 +1235,131 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\95285550-4307-f297-c066-450659f6ad5d.lsf100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\95d27a58-b41b-4d8f-8790-8c807e34fb1b.lsf100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9651ead4-14e7-1e08-6e0c-51eba389f83e.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_1.GR2100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9656f465-b772-c8f2-6773-2e72c7a50a18.lsf100%  
 	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9661d191-f562-458c-9a95-3df6a3cef94a.lsf100%  
+	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_1.xml100%  
 	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\96db8ced-d1d5-8f9a-52cb-618b1cd3167f.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_2.GR2100%  
 	    New File  		    2861	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9899adaf-9f8b-49e5-9fb8-a34663543ebb.lsf100%  
+	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_2.xml100%  
 	    New File  		    2550	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9932aae2-13e7-4af0-84b2-303b011d4f98.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_3.GR2100%  
 	    New File  		    3377	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\996d9fd4-93e2-8f8c-78c0-5c57b7b09763.lsf100%  
+	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_3.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\999214d6-ed4d-e21b-3a31-e4c635c1ec99.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.GR2100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\99b87c2c-005c-42c4-bef0-1dc68b75e4c3.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9a2c5e99-979e-b680-a88b-f4847eab763a.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.GR2100%  
 	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9ae9be26-92cc-2f62-9e8e-3ca99e6abdd5.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9b6b858b-68fb-4274-9634-769ecf91b135.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.GR2100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.xml100%  
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9cd68b29-805c-f402-aaf8-751555f54d60.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.GR2100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9da51dbb-3dc5-c451-7153-a06da758644c.lsf100%  
+	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.xml100%  
 	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9dc0baf3-301e-42a9-94ef-17cb431586d8.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.GR2100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\9f34cf5b-c224-4e2b-8ab6-0667c4311b42.lsf100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.xml100%  
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a096055e-da58-066b-fe9c-cac7cc5ff50f.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.GR2100%  
 	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a1c2df34-4f15-bc20-ccc0-e15bad9f2666.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.xml100%  
 	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a2319092-183f-edc6-4adc-814c8ffd7cbc.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.GR2100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a26096ef-fe1d-820d-9049-ea04098d064b.lsf100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.xml100%  
 	    New File  		    6513	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a2b8ece0-2696-6be0-1505-1eec1e989685.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.GR2100%  
 	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a2e39dc7-c730-49a2-8573-c6f6510550f1.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.xml100%  
 	    New File  		    2545	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a3533eb6-3994-44cc-ac9e-28ac563c3f98.lsf100%  
+	    New File  		  496748	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1.GR2100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a37e3edc-651e-f922-764a-738351b80407.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_B_Gem_Ruby.GR2100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a392f89f-703d-4019-925c-c71351aed972.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_B_Gem_Ruby.xml100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_C_Gem_Amethyst.GR2100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a3c28c24-7153-4490-b517-89280b30a976.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_2.GR2100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a3ccae12-16a0-4381-b9de-ed26c1732f6c.lsf100%  
+	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_2.xml100%  
 	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a52b06e0-ef8e-4eac-a880-7ff829dc35e6.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_A.GR2100%  
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a5cd6169-d3d7-3f6e-286d-f7655e85a033.lsf100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_A.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a6d74e8c-c227-b97b-f1d2-3d5fce58344c.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_1.GR2100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a7a7e46a-d57e-4135-890e-5f805b7e6151.lsf100%  
+	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_2.GR2100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a89c4411-aaee-d146-37e4-65ac5ef1dd06.lsf100%  
+	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_2.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\a8e1e787-a226-6b12-ea42-0156a7f1b874.lsf100%  
+	    New File  		  496756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_Mesh._A_V13_SLDF_L1.GR2100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\aa186ef1-8f3e-4217-9ea0-852c9fae1f9a.lsf100%  
+	    New File  		  191804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Tail_A_SLDF_L1_1.GR2100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\aa2fc666-890b-24e5-e8a2-3083e85bcb35.lsf100%  
+	    New File  		     159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Tail_A_SLDF_L1_1.xml100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\aaf0174f-0dc7-4a2b-9ed7-9110e36eb8f7.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_1.GR2100%  
+	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_1.xml100%  
 	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ac34cfcb-93c0-1eba-c494-626f829a8c9c.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ice.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ice.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\adf30ba9-dbb9-e109-0a26-185bbe9cac1d.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Obsidian.GR2100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ae6bbf1a-410f-4756-b80a-1982fdafcaaa.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Obsidian.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\af32c9cc-402e-41fd-9995-36977aa71c14.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ruby.GR2100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\affff5e8-36d7-a65d-2569-4b2ae0de307e.lsf100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ruby.xml100%  
 	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b01cbbfb-7f36-413a-be4e-f302897d2f66.lsf100%  
 	    New File  		    2743	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b1b3eaa8-6381-4bcb-b707-c84aa13b2be4.lsf100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b22379fa-2f6d-bff7-dfba-839a386c403f.lsf100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b23aa37a-26af-d206-7c9a-3fe71c7a5551.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Sapphire.GR2100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Sapphire.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Amethyst.GR2100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Amethyst.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_BYTopaz.GR2100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_BYTopaz.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Emerald.GR2100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Emerald.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_HTopaz.GR2100%  
+	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_HTopaz.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ice.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ice.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Obsidian.GR2100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Obsidian.xml100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b2e829db-2fbf-4994-818a-162b08cffa42.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ruby.GR2100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b2ee8aa8-8815-4344-9ab7-63ff12e78985.lsf100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ruby.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b3ad0b7c-6955-46fb-9bfd-39fa39d5cc7e.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Sapphire.GR2100%  
 	    New File  		    6535	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b4361886-541f-ed6e-2a71-82880108b57e.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Sapphire.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b43eba99-443f-4b3a-859c-b3f3ee0e1b5d.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Amethyst.GR2100%  
+	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Amethyst.xml100%  
 	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b4618dcc-c4d2-8599-6336-eb077073f2a6.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_BYTopaz.GR2100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b46a4a9d-54c4-48be-b9ae-e970ef0762c7.lsf100%  
+	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_BYTopaz.xml100%  
 	    New File  		    6509	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b6b30e36-d5eb-4d07-6b3a-bf30cccd2d85.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Emerald.GR2100%  
 	    New File  		    2559	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b8343342-87a6-425f-a975-af19fd2cb693.lsf100%  
+	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Emerald.xml100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b87c7356-c070-4260-ad48-aa62cd29afb6.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_HTopaz.GR2100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b96638ee-6e8c-59e2-ccdc-f879e8c6ba48.lsf100%  
+	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_HTopaz.xml100%  
 	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b96660bb-8d3c-3550-0537-66a6837e962e.lsf100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b99f1a1c-7f62-4b24-9eb6-22450b9141f5.lsf100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\b9b0a398-a725-45e6-7cba-cdbb328d7888.lsf100%  
@@ -1305,269 +1375,160 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\bdfc3c6f-90fe-5aa0-8b5d-981617d7e9c4.lsf100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\be407297-28ed-448b-a280-4d39373bcd61.lsf100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\beff926a-c2bd-7c2b-a87f-ba332656aea9.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ice.GR2100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ice.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Obsidian.GR2100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\bf1c11c0-2736-47f6-b3db-c5871e98b66c.lsf100%  
+	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Obsidian.xml100%  
 	    New File  		    3377	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\bf1ef7a2-73b1-77f4-3d85-be67b5acd9aa.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ruby.GR2100%  
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\bf350e64-bf2f-69fc-0e8f-0a3c16e64c3b.lsf100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ruby.xml100%  
 	    New File  		    6513	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\bfbe513e-e672-9b8f-f4ff-b4ab56fefbe7.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Sapphire.GR2100%  
 	    New File  		    6514	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c00b63e8-0717-2659-d42d-3e1f316541d5.lsf100%  
+	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Sapphire.xml100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c091ac1d-4a12-4d4e-8040-4686ba75c778.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Amethyst.GR2100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c206ec6d-9c26-a2dd-45d7-018db835bd3a.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Amethyst.xml100%  
 	    New File  		    2865	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c28eefb3-4da5-4f45-8497-a39485213f90.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_BYTopaz.GR2100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c2a631cb-75cb-4144-b25d-a82a21163ce1.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_BYTopaz.xml100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c4bc36bf-70e6-4eaf-9c98-1c836e3d2a15.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Emerald.GR2100%  
 	    New File  		    2550	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c533035e-f6a4-44bd-8aeb-069aafa09b3a.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Emerald.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c5fcbcd3-cf26-4a17-8567-e801f59220d3.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_HTopaz.GR2100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c624b18e-e424-d8b8-349b-93195ba27a36.lsf100%  
+	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_HTopaz.xml100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c72d8437-6543-ab22-3021-8e4536c77920.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ice.GR2100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ice.xml100%  
 	    New File  		    2552	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c73fd249-5690-4bf1-bb81-ebc6e0ae3793.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Obsidian.GR2100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Obsidian.xml100%  
 	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c7583f6f-944e-4546-bbda-ada0d75e5992.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ruby.GR2100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c84729cf-27da-37c2-d394-1aa6a20659f6.lsf100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ruby.xml100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c879a3b4-ba13-417b-afd1-91c7c09361b6.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Sapphire.GR2100%  
 	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\c9a5f57d-3a91-4957-b8b5-2a165629a65e.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Sapphire.xml100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cabe1f0a-a112-4257-b8aa-a4007de21c63.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.GR2100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\caff8b7e-d6ca-40a4-5dad-83b2b9bddab4.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.xml100%  
 	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cc37bab7-68de-ba67-f64d-a6562ce42c3c.lsf100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cd3b1645-db3c-69af-3926-e854ab784103.lsf100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cd4084a7-509f-4ea3-a7d2-764814e9582f.lsf100%  
 	    New File  		    2737	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cd5f2ac0-38e1-427d-a34a-be4faddaa523.lsf100%  
 	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cdd00288-d4f5-4cee-aec5-6fad873e7b9e.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.GR2100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ce15391c-ec62-f3fb-737f-441f27cdbeb1.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.GR2100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cec77e0b-3304-499b-bc68-233f0076ae75.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.xml100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\cef33c35-3698-f055-0fb1-6245ca38f6ad.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.GR2100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d0155e35-54ef-4476-acf0-f75c4423d729.lsf100%  
+	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.GR2100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d058a7ef-e0fe-4805-a3b9-8202dee938bf.lsf100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d4655ae1-91c3-43de-8b66-35f8a708dd2f.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.GR2100%  
 	    New File  		    1639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d475ec2a-aa54-851e-3d4b-cf02e91cbe86.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d489d446-7928-30e9-816c-275f6b52f03f.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.GR2100%  
 	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d4c35310-671a-9f31-5aff-1f28b053befa.lsf100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d4c92bde-a189-4189-9480-8b153baac26a.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.GR2100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d4e8f3d7-c6d3-9ac6-7f99-da9fe7d88344.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.xml100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d71c57c3-a21e-8e63-1230-792f50ad12be.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Amethyst.GR2100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d7fb1761-69ad-4f8f-be3b-4e7c3a4007f6.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Amethyst.xml100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_BYTopaz.GR2100%  
 	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d83a97c3-5b6c-430b-bc10-e47240091275.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_BYTopaz.xml100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d990b360-4236-4401-aa11-8a0debed5f84.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Emerald.GR2100%  
 	    New File  		    2555	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d9ad2bd7-7d7b-42d3-8a20-75a5f5f3170d.lsf100%  
+	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Emerald.xml100%  
 	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\d9dfbaa5-3703-4751-838e-aecf784d8a35.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_HTopaz.GR2100%  
 	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\da49ef7a-7a2b-4ec1-b1fd-c61559d0cb5e.lsf100%  
+	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_HTopaz.xml100%  
 	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\da8120f3-45e6-a7c8-778d-9bfacdb03911.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ice.GR2100%  
 	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dabdf170-d052-4c17-b0b0-129d95133139.lsf100%  
+	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ice.xml100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\db369d34-e8cc-4686-9b8e-c0f4a5672066.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Obsidian.GR2100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dbd37e5f-5d4c-0872-81ac-e0bcd6ecad17.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Obsidian.xml100%  
 	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dbe8521e-5030-40c5-9832-2f9017bea5b4.lsf100%  
 	    New File  		    2560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dc66dd26-b2d6-4cc3-9f8b-5156c1c21f36.lsf100%  
 	    New File  		    3378	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dc80b31e-b3f6-3b51-5f99-0bc97b167514.lsf100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dd2f160d-f14f-4fbe-aeb0-4dd216bf6289.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ruby.GR2100%  
+	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ruby.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\dda52e6c-d40c-b1f9-f9a2-fcc3cb82c6a9.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Sapphire.GR2100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\de44bc2d-b441-0f65-96b4-ae7d14392cbc.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Sapphire.xml100%  
 	    New File  		    2740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\df24c87b-5ef3-45b8-bc6f-ef95e26b63be.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Amethyst.GR2100%  
 	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\df73b17c-37d4-75f5-44a7-ebd33adb9b78.lsf100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Amethyst.xml100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\df83d7b3-7fd3-4b16-b35a-24436bede079.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_BYTopaz.GR2100%  
 	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\df98002d-b024-4b8c-a78c-330eefb2e594.lsf100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_BYTopaz.xml100%  
 	    New File  		    2560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e05507db-086a-40a6-a83d-73a469a123c7.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Emerald.GR2100%  
 	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e0fde69f-adae-cc30-0992-d29e1f92d00d.lsf100%  
+	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Emerald.xml100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e10c4faa-eb5c-69a3-7ec8-5ef11fbdc4f4.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_HTopaz.GR2100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e16d8a0f-4173-4ccc-94d4-1e61f077c99f.lsf100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_HTopaz.xml100%  
 	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e2e949ce-1be5-8dcc-08ba-360d8e0342c5.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ice.GR2100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e35944d3-3e80-45b7-bcb8-c8caa36f0bf5.lsf100%  
+	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ice.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e480b672-d6a4-67db-43b7-ca64a2de7a86.lsf100%  
 	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e499e7ed-2989-4642-934d-61e441a9989a.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Obsidian.GR2100%  
 	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e551b8ad-cc34-4aa9-8716-ab599dddcbf8.lsf100%  
+	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Obsidian.xml100%  
 	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e563e610-605b-c0b7-6197-71588b664872.lsf100%  
+	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ruby.GR2100%  
 	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e5813ef7-d18b-4d4e-9819-c93fdbe2cf54.lsf100%  
 	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e602b88c-d0b1-8346-776b-8c9e26e26650.lsf100%  
 	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e62f5f71-0d38-6a63-525a-47ba11495065.lsf100%  
-	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e637f4c8-954a-44a3-8f2a-a30a2ec59927.lsf100%  
-	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e648a4d3-3ce8-4216-874a-6d4b791d759c.lsf100%  
-	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e6614eea-6158-4f1b-946f-57d4d28325d1.lsf100%  
-	    New File  		    2741	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e69aab40-dc47-443b-bfd7-531c51320f8f.lsf100%  
-	    New File  		    2554	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e75ca2d9-4446-47b7-aa4e-c1f4ec9359a3.lsf100%  
-	    New File  		    6512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e8ac5a45-1b6e-7e29-195a-778dee1f32e6.lsf100%  
-	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e905eced-8257-c36e-3b6c-3a289897ed7d.lsf100%  
-	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e94226f1-2bc1-8763-867d-45eb54900d0a.lsf100%  
-	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9570f2c-fa6a-2991-fd2c-49b0b620a582.lsf100%  
-	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e95e82d8-9c55-4e6e-b126-ebc917af9657.lsf100%  
-	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9c7e399-9cce-79a9-be29-b4d1e856afdc.lsf100%  
-	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9d4cc1a-c0b5-4f8d-a2d4-de7968d01f50.lsf100%  
-	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ea4cfd5a-aab8-4e28-8fc2-8b0f0ee25bfe.lsf100%  
-	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ea852b07-d87a-4242-beaf-d9c7fcb8fe6f.lsf100%  
-	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\eba3e10c-1558-997a-f9c8-98d91ed6af3c.lsf100%  
-	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ebef4832-25a7-4655-89ea-dd617bc2c475.lsf100%  
-	    New File  		    6514	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ecd20fbb-4f3a-9480-58e5-4164095ab4ee.lsf100%  
-	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ed8bf01b-c6a6-46d8-a769-e15c91c5457e.lsf100%  
-	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee76a0e5-dc1e-4ec9-aa5c-18d719a541a5.lsf100%  
-	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee97290f-20f5-4b31-9dc4-60039e970943.lsf100%  
-	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee9b498b-4c50-4efc-8b88-cb8161ab877a.lsf100%  
-	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\eee0a092-9df1-8c83-7366-b542d3eb05af.lsf100%  
-	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ef5525d2-c7be-4d24-aa26-c12f4730fc3d.lsf100%  
-	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ef6780b1-deb4-571c-4605-7b8caf9f0f9e.lsf100%  
-	    New File  		    2742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1027bbe-96bf-4f38-9c0e-049f366d22a6.lsf100%  
-	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f10f72bc-d654-4850-be9c-5ff241234103.lsf100%  
-	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1599038-9804-45b8-9922-c2c48f82a4cc.lsf100%  
-	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f18334e2-ced1-7b3c-ae1c-f98b7ba2e290.lsf100%  
-	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf100%  
-	    New File  		    6498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f2e8bb20-bbd3-f181-a09c-fbfc7e19959e.lsf100%  
-	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f32b0ef2-8b24-432c-ab1a-3123d8be4714.lsf100%  
-	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f37fcabc-46b3-ba47-028d-e6daaac402fe.lsf100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_1.GR2100%  
-	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f4b7c9ae-6672-09bf-958c-19c02f8863f6.lsf100%  
-	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f5c0875c-d103-dba1-3269-ca0f352b221f.lsf100%  
-	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f5c09777-22ca-6c18-1b97-4b19099cabf7.lsf100%  
-	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f93e10ca-a46c-82e2-cb89-1101c1292323.lsf100%  
-	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f9858e34-40f9-5110-726d-0d03ee7f9cca.lsf100%  
-	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f9d39900-7754-44c1-9522-312fcb82141f.lsf100%  
-	    New File  		    2860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fa0d14f8-6942-42ae-9afc-34b58e133ee4.lsf100%  
-	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\faa04f76-7ff4-4828-a848-070f978cc334.lsf100%  
-	    New File  		    6509	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fb7a3fdc-517c-0fd0-f26a-c094af22d900.lsf100%  
-	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fc05bb2f-b699-4d5c-ab1b-ea0509a90444.lsf100%  
-	    New File  		    3375	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fc12584e-2692-773c-8810-a6febb4743b0.lsf100%  
-	    New File  		    2560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fcbe0327-0480-479e-a002-55a23b27c1fa.lsf100%  
-	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fd98fdc6-f24c-4b3b-ba35-3a3652e62587.lsf100%  
-	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ff98ad16-a106-4919-a23d-90909c88dc2f.lsf100%  
-	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_1.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_2.GR2100%  
-	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_2.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_3.GR2100%  
-	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_3.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.GR2100%  
-	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.xml100%  
-	    New File  		  496748	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1.GR2100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_B_Gem_Ruby.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_B_Gem_Ruby.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Decor_C_Gem_Amethyst.GR2100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_2.GR2100%  
-	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_2.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_A.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FB_Dots_A.xml100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_1.GR2100%  
-	    New File  		  496760	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_2.GR2100%  
-	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_4D_V13_SLDF_L1_FullBody_2.xml100%  
-	    New File  		  496756	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Body_A_Mesh._A_V13_SLDF_L1.GR2100%  
-	    New File  		  191804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Tail_A_SLDF_L1_1.GR2100%  
-	    New File  		     159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_F_NKD_Tail_A_SLDF_L1_1.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_1.GR2100%  
-	    New File  		     165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_1.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_D_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Amethyst.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_BYTopaz.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Emerald.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_HTopaz.GR2100%  
-	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_E_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Amethyst.GR2100%  
-	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_BYTopaz.GR2100%  
-	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Emerald.GR2100%  
-	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_HTopaz.GR2100%  
-	    New File  		     187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ice.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Obsidian.GR2100%  
-	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ruby.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Sapphire.GR2100%  
-	    New File  		     189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_F_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Amethyst.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_BYTopaz.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Emerald.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_HTopaz.GR2100%  
-	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_G_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.GR2100%  
-	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_H_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Amethyst.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_BYTopaz.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Emerald.GR2100%  
-	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_HTopaz.GR2100%  
-	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ice.GR2100%  
-	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Obsidian.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ruby.GR2100%  
-	    New File  		     180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Ruby.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Sapphire.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_I_Gem_Sapphire.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Amethyst.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Amethyst.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_BYTopaz.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_BYTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Emerald.GR2100%  
-	    New File  		     185	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Emerald.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_HTopaz.GR2100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_HTopaz.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ice.GR2100%  
-	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ice.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Obsidian.GR2100%  
-	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Obsidian.xml100%  
-	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ruby.GR2100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Ruby.xml100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e637f4c8-954a-44a3-8f2a-a30a2ec59927.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Sapphire.GR2100%  
+	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e648a4d3-3ce8-4216-874a-6d4b791d759c.lsf100%  
 	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_J_Bhaal_Sapphire.xml100%  
+	    New File  		    2548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e6614eea-6158-4f1b-946f-57d4d28325d1.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlachl_White.GR2100%  
+	    New File  		    2741	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e69aab40-dc47-443b-bfd7-531c51320f8f.lsf100%  
 	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlachl_White.xml100%  
+	    New File  		    2554	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e75ca2d9-4446-47b7-aa4e-c1f4ec9359a3.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_BGreen.GR2100%  
+	    New File  		    6512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e8ac5a45-1b6e-7e29-195a-778dee1f32e6.lsf100%  
 	    New File  		     186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_BGreen.xml100%  
+	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e905eced-8257-c36e-3b6c-3a289897ed7d.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Blue.GR2100%  
 	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Blue.xml100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Fire.GR2100%  
@@ -1581,25 +1542,51 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Red.GR2100%  
 	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Decor_O_Karlach_Red.xml100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Amethyst.GR2100%  
+	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e94226f1-2bc1-8763-867d-45eb54900d0a.lsf100%  
 	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Amethyst.xml100%  
+	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9570f2c-fa6a-2991-fd2c-49b0b620a582.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_BYTopaz.GR2100%  
+	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e95e82d8-9c55-4e6e-b126-ebc917af9657.lsf100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_BYTopaz.xml100%  
+	    New File  		    6510	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9c7e399-9cce-79a9-be29-b4d1e856afdc.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Emerald.GR2100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\e9d4cc1a-c0b5-4f8d-a2d4-de7968d01f50.lsf100%  
+	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ea4cfd5a-aab8-4e28-8fc2-8b0f0ee25bfe.lsf100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Emerald.xml100%  
+	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ea852b07-d87a-4242-beaf-d9c7fcb8fe6f.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_HTopaz.GR2100%  
+	    New File  		    6508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\eba3e10c-1558-997a-f9c8-98d91ed6af3c.lsf100%  
 	    New File  		     181	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_HTopaz.xml100%  
+	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ebef4832-25a7-4655-89ea-dd617bc2c475.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ice.GR2100%  
+	    New File  		    6514	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ecd20fbb-4f3a-9480-58e5-4164095ab4ee.lsf100%  
 	    New File  		     178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ice.xml100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ed8bf01b-c6a6-46d8-a769-e15c91c5457e.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Obsidian.GR2100%  
+	    New File  		    2557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee76a0e5-dc1e-4ec9-aa5c-18d719a541a5.lsf100%  
 	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Obsidian.xml100%  
+	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee97290f-20f5-4b31-9dc4-60039e970943.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ruby.GR2100%  
+	    New File  		    2558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ee9b498b-4c50-4efc-8b88-cb8161ab877a.lsf100%  
 	    New File  		     179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Ruby.xml100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\eee0a092-9df1-8c83-7366-b542d3eb05af.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Sapphire.GR2100%  
+	    New File  		    2553	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ef5525d2-c7be-4d24-aa26-c12f4730fc3d.lsf100%  
 	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_A_Gem_Sapphire.xml100%  
+	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ef6780b1-deb4-571c-4605-7b8caf9f0f9e.lsf100%  
+	    New File  		    2742	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1027bbe-96bf-4f38-9c0e-049f366d22a6.lsf100%  
+	    New File  		    2546	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f10f72bc-d654-4850-be9c-5ff241234103.lsf100%  
+	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1599038-9804-45b8-9922-c2c48f82a4cc.lsf100%  
+	    New File  		    6507	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f18334e2-ced1-7b3c-ae1c-f98b7ba2e290.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_Amethyst.GR2100%  
+	    New File  		    3376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f1ff7cbc-aafa-d57b-3cd6-bc45c2c4fcda.lsf100%  
+	    New File  		    6498	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f2e8bb20-bbd3-f181-a09c-fbfc7e19959e.lsf100%  
 	    New File  		     183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_Amethyst.xml100%  
+	    New File  		    2544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f32b0ef2-8b24-432c-ab1a-3123d8be4714.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_BYTopaz.GR2100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f37fcabc-46b3-ba47-028d-e6daaac402fe.lsf100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_BYTopaz.xml100%  
+	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f4b7c9ae-6672-09bf-958c-19c02f8863f6.lsf100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_Emerald.GR2100%  
 	    New File  		     182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_Emerald.xml100%  
 	    New File  		  494244	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Body_A_4D_SLDF_L1_FB_Dots_B_Gem_HTopaz.GR2100%  
@@ -1622,18 +1609,30 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_BYTopaz.xml100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Emerald.GR2100%  
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Emerald.xml100%  
+	    New File  		    6506	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f5c0875c-d103-dba1-3269-ca0f352b221f.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_HTopaz.GR2100%  
+	    New File  		    6504	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f5c09777-22ca-6c18-1b97-4b19099cabf7.lsf100%  
 	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_HTopaz.xml100%  
+	    New File  		    6503	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f93e10ca-a46c-82e2-cb89-1101c1292323.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Ice.GR2100%  
+	    New File  		    1643	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f9858e34-40f9-5110-726d-0d03ee7f9cca.lsf100%  
 	    New File  		     171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Ice.xml100%  
+	    New File  		    2547	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\f9d39900-7754-44c1-9522-312fcb82141f.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Obsidian.GR2100%  
+	    New File  		    2860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fa0d14f8-6942-42ae-9afc-34b58e133ee4.lsf100%  
 	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Obsidian.xml100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Ruby.GR2100%  
+	    New File  		    2543	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\faa04f76-7ff4-4828-a848-070f978cc334.lsf100%  
 	    New File  		     172	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Ruby.xml100%  
+	    New File  		    6509	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fb7a3fdc-517c-0fd0-f26a-c094af22d900.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Sapphire.GR2100%  
+	    New File  		    2863	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fc05bb2f-b699-4d5c-ab1b-ea0509a90444.lsf100%  
 	    New File  		     176	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Decor_I_Sapphire.xml100%  
+	    New File  		    3375	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fc12584e-2692-773c-8810-a6febb4743b0.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Amethyst.GR2100%  
+	    New File  		    2560	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fcbe0327-0480-479e-a002-55a23b27c1fa.lsf100%  
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Amethyst.xml100%  
+	    New File  		    2864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\fd98fdc6-f24c-4b3b-ba35-3a3652e62587.lsf100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_BYTopaz.GR2100%  
 	    New File  		     174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_BYTopaz.xml100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Emerald.GR2100%  
@@ -1645,6 +1644,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Obsidian.GR2100%  
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Obsidian.xml100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Ruby.GR2100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Content\[PAK]_DGB_Body_Uni_AkELkA\ff98ad16-a106-4919-a23d-90909c88dc2f.lsf100%  
 	    New File  		     171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Ruby.xml100%  
 	    New File  		  192188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Sapphire.GR2100%  
 	    New File  		     175	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\DGB_Body_Uni\Emissive\DGB_M_NKD_Tail_A_SLDF_L1_1_Dots_A_Sapphire.xml100%  
@@ -1683,12 +1683,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        16        16         1         0         0         0
    Files :       725       725         0         0         0         0
    Bytes :  208.59 m  208.59 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1438972730 Bytes/sec.
-   Speed :            82338.680 MegaBytes/min.
-   Ended : Tuesday, June 24, 2025 12:26:21 PM
+   Speed :           587967352 Bytes/sec.
+   Speed :           33643.761 MegaBytes/min.
+   Ended : Wednesday, September 3, 2025 10:32:03 AM
 
  
 [DEBUG] Counting source files 
@@ -1714,7 +1714,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, June 24, 2025 12:26:23 PM
+  Started : Wednesday, September 3, 2025 10:32:06 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\Generated\Public\DGB_Body_Uni_AkELkA_f9ad1b39-b26e-b5b6-f79b-40d693b05faf\
 
@@ -1740,7 +1740,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           687810000 Bytes/sec.
    Speed :           39356.803 MegaBytes/min.
-   Ended : Tuesday, June 24, 2025 12:26:23 PM
+   Ended : Wednesday, September 3, 2025 10:32:06 AM
 
  
 [DEBUG] Counting source files 
